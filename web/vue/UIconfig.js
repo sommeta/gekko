@@ -12,7 +12,7 @@ const CONFIG = {
   },
   ui: {
     ssl: false,
-    host: '13.81.108.99',
+    host: 'gekkoprod.azurewebsites.net',
     port: 3000,
     path: '/'
   },
